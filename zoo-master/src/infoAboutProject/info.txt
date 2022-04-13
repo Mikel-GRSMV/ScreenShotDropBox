@@ -1,0 +1,3 @@
+!!После clone с git: смотрим config и указываем там главный класс(Main) и в параметре указываем JSON-config.
+Можно проверить в file -> dataStructure версию Java!!
+

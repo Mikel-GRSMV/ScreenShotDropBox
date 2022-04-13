@@ -1,0 +1,22 @@
+{
+  "carnivoreAnimals": [
+    {
+      "name": "Panther",
+      "amount" : 1
+    },
+    {
+      "name": "Wolf",
+      "amount" : 2
+    }
+  ],
+  "herbivoreAnimals": [
+    {
+      "name": "Cow",
+      "amount" : 3
+    },
+    {
+      "name": "Koala",
+      "amount" : 4
+    }
+  ]
+}
